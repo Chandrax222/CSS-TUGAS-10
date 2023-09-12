@@ -1,0 +1,19 @@
+body {
+    width: 400px;
+    height: 1000px;
+    background-image: radial-gradient(ellipse at top right, white 10%, red);
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+div.satu {
+    width: 700px;
+    height: 500px;
+    background: radial-gradient(ellipse at bottom, white 5%, blue);
+}
+
+div.dua {
+    width: 700px;
+    height: 200px;
+    background-image: radial-gradient(circle at left, white , blue, white);
+}
